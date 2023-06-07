@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'lb';
+    src: url(../fonts/Lato-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'lr';
+    src: url(../fonts/Lato-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'ls';
+    src: url(../fonts/Lato-Semibold.ttf) format('truetype');
+}
